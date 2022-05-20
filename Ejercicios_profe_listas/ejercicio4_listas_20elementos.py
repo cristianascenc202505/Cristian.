@@ -1,7 +1,7 @@
 b=[]
 i=1
 
-while i in range(1,21):
+while i in range(1,3):
     num= int(input("Digite un numero: "))
     if num>=1:
         c= num
